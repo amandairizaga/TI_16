@@ -1,0 +1,28 @@
+<p> </p>
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+<b> </b>
+<br> </br>
+<i> </i>
+<u> </u>
+<font color = "NomeDaCorEmIngles"></font>
+<center> = centraliza o texto
+<right> = justifica a direita
+<left> = justifica a esquerda
+<body bgcolor = "corEmIngles"> = muda cor de fundo
+
+TEMA DA PÁGINA:
+O QUE DEVE CONTER:
+IMAGEM?
+VÍDEO?
+APENAS TEXTO?
+
+PRETO, ROXO E AMARELO
+
+
+
+
